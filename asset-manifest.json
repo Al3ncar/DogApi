@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/DogApi/static/js/main.4fed8a54.js",
+    "static/media/dog-api-logo.svg": "/DogApi/static/media/dog-api-logo.698d437d41e473f731e758b3bd9a296e.svg",
+    "index.html": "/DogApi/index.html",
+    "main.4fed8a54.js.map": "/DogApi/static/js/main.4fed8a54.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4fed8a54.js"
+  ]
+}
